@@ -14,7 +14,7 @@ Cкачать Telegram Desktop: https://desktop.telegram.org
 Для Mac OS скачивать с сайта, не с App Store!
 
 ## Использование
-`git clone https://github.com/palahsu/DDoS-Ripper`
+`git clone https://github.com/cybers0ldier01/ddos_atacker.git`
 `cd DDoS-Ripper`
 
 ## Для Windows
